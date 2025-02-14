@@ -1,5 +1,4 @@
-opencv-python
+opencv-python-headless
 pyzbar
 Flask
 zbarlight
-db-sqlite3
