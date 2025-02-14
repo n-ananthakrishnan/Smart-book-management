@@ -183,7 +183,6 @@ class LibraryManagementApp:
         ttk.Button(add_book_window, text="Add Book", command=save_book).pack(pady=20)
 
 if __name__ == "__main__":
-    root = tk.Tk()
     app = LibraryManagementApp(root)
 
     # Customizing button style
