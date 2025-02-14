@@ -1,5 +1,5 @@
-pip install opencv-python
-pip install pyzbar
-pip install Flask
-pip install zbarlight
-pip install db-sqlite3
+opencv-python
+pyzbar
+Flask
+zbarlight
+db-sqlite3
